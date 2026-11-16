@@ -62,7 +62,6 @@ The build bundles its dependencies but still uses the system Python framework. S
 | `make_icon.py` | Generates `AppIcon.icns` |
 | `setup.py` | py2app build config |
 | `scripts/` | Build scripts for the `.app` and the `.dmg` |
-| `legacy/` | An older, unrelated Telegram bot, kept for reference only |
 
 ## Tech
 
